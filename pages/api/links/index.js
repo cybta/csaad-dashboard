@@ -11,8 +11,20 @@ const links = [
         url: 'https://819382988742.signin.aws.amazon.com/console',
       },
       {
-        name: 'Viewer',
-        url: 'https://cdn-media.brightline.tv/campaigns/brightline/ads/viewer/index.html',
+        name: 'Adobe release',
+        url: 'https://developer.adobe.com/console/projects',
+      },
+      {
+        name: 'StreamLine staging',
+        url: 'https://streamline-stage.brightline.tv',
+      },
+      {
+        name: 'StreamLine Prod',
+        url: 'https://streamline.brightline.tv',
+      },
+      {
+        name: 'HTML intgrations',
+        url: 'https://cdn-media.brightline.tv/sdk/gen2/guides/webkit.html',
       },
       {
         name: 'Monday',
@@ -23,8 +35,12 @@ const links = [
         url: 'https://ssp.api.brightline-dev.com/swagger/index.html',
       },
       {
-        name: 'Analytics',
-        url: 'https://docs.google.com/spreadsheets/d/1EgCa6JeKqBvolX4XEnWTC4Zu_M3XDYX3t4i8ZJwDACY/edit#gid=1628943652',
+        name: 'heroicons',
+        url: 'https://heroicons.com/',
+      },
+      {
+        name: 'Tailgrid',
+        url: 'https://tailgrids.com/',
       },
       {
         name: 'ibis',

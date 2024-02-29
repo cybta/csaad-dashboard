@@ -72,6 +72,10 @@ const links = [
         url: 'https://kbplate.ai03.com/',
       },
       {
+        name: 'KMK',
+        url: 'http://kmkfw.io/docs/encoder',
+      },
+      {
         name: 'keyboard Ranking',
         url: 'https://jakeandbettyllc.notion.site/100-Keyboards-Ranked-A-Massive-Database-of-Every-Keyboard-We-Reviewed-e205e0eb4a1a46b39fa282d9dc1004a4',
       },

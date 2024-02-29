@@ -23,7 +23,7 @@ const links = [
         url: 'https://streamline.brightline.tv',
       },
       {
-        name: 'HTML intgrations',
+        name: 'HTML integrations',
         url: 'https://cdn-media.brightline.tv/sdk/gen2/guides/webkit.html',
       },
       {
@@ -35,20 +35,20 @@ const links = [
         url: 'https://ssp.api.brightline-dev.com/swagger/index.html',
       },
       {
-        name: 'heroicons',
-        url: 'https://heroicons.com/',
-      },
-      {
-        name: 'Tailgrid',
-        url: 'https://tailgrids.com/',
-      },
-      {
         name: 'ibis',
         url: 'https://ibis.comcast.com/app-dev-tool/devices/list',
       },
       {
         name: 'Suitest',
         url: 'https://the.suite.st/login',
+      },
+      {
+        name: 'heroicons',
+        url: 'https://heroicons.com/',
+      },
+      {
+        name: 'Tailgrid',
+        url: 'https://tailgrids.com/',
       },
     ],
   },
@@ -76,6 +76,10 @@ const links = [
         url: 'https://jakeandbettyllc.notion.site/100-Keyboards-Ranked-A-Massive-Database-of-Every-Keyboard-We-Reviewed-e205e0eb4a1a46b39fa282d9dc1004a4',
       },
       {
+        name: 'MicroPad 20',
+        url: 'http://www.keyboard-layout-editor.com/##@@_c=%23a69a88&a:7%3B&=Num&=%2F%2F&=*&=-%3B&@_c=%23cccccc%3B&=7&=8&=9&_c=%23a69a88%3B&=+%3B&@_c=%23cccccc%3B&=4&=5&=6&_c=%23a69a88%3B&=.%3B&@_c=%23cccccc%3B&=1&=2&=3&_c=%23a69a88%3B&=0%3B&@_c=%23211c1c&t=%23ffffff%3B&=Cyb&=%E2%86%90&=%E2%86%92&=Enter',
+      },
+      {
         name: 'My 75 keyboard',
         url: "http://www.keyboard-layout-editor.com/##@@_a:6%3B&=Esc&_x:1.5%3B&=F1&=F2&=F3&=F4&_x:0.25%3B&=F5&=F6&=F7&=F8&_x:0.25%3B&=F9&=F10&=F11&=F12&_x:0.5&a:5%3B&=Delete%0AInsert%3B&@_y:0.25&a:4%3B&=~%0A%60&=!%0A1&=%2F@%0A2&=%23%0A3&=$%0A4&=%25%0A5&=%5E%0A6&=%2F&%0A7&=*%0A8&=(%0A9&=)%0A0&=%2F_%0A-&=+%0A%2F=&_a:6&w:2%3B&=Backspace&_x:0.5%3B&=Home%3B&@_a:4&w:1.5%3B&=Tab&=Q&=W&=E&=R&=T&=Y&=U&=I&=O&=P&=%7B%0A%5B&=%7D%0A%5D&_w:1.5%3B&=%7C%0A%5C&_x:0.5&a:6%3B&=Page%20Up%3B&@_a:4&w:1.75%3B&=Caps%20Lock&=A&=S&=D&=F&=G&=H&=J&=K&=L&=%2F:%0A%2F%3B&=%22%0A'&_a:6&w:2.25%3B&=Enter&_x:0.5%3B&=Page%20Down%3B&@_w:2.25%3B&=Shift&_a:4%3B&=Z&=X&=C&=V&=B&=N&=M&=%3C%0A,&=%3E%0A.&=%3F%0A%2F%2F&_a:6&w:1.75%3B&=Shift&_x:1.5%3B&=End%3B&@_y:-0.75&x:14.25&a:7%3B&=%E2%86%91%3B&@_y:-0.25&a:6&w:1.25%3B&=Ctrl&_w:1.25%3B&=Win&_w:1.25%3B&=Alt&_a:7&w:6.25%3B&=&_a:6%3B&=Alt&=Fn&=Ctrl%3B&@_y:-0.75&x:13.25&a:7%3B&=%E2%86%90&=%E2%86%93&=%E2%86%92",
       },
@@ -96,7 +100,7 @@ const links = [
         url: 'https://imagetostl.com/',
       },
       {
-        name: 'Movie searrch',
+        name: 'Movie search',
         url: 'https://yts.mx/',
       },
       {

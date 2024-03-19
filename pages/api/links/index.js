@@ -60,6 +60,14 @@ const links = [
         url: 'https://us04web.zoom.us/j/3630198264?pwd=LzFiT3lMM3luU2dGVTNVLzZZV25Vdz09#success',
       },
       {
+        name: 'Keyboards Layout GIT',
+        url: 'https://github.com/help-14/mechanical-keyboard',
+      },
+      {
+        name: 'Keyboards Layout GIT Split',
+        url: 'https://github.com/diimdeep/awesome-split-keyboards',
+      },
+      {
         name: 'Keyboard Layout',
         url: 'http://www.keyboard-layout-editor.com/',
       },

@@ -137,6 +137,10 @@ const links = [
         url: 'https://ellis3dp.com/Print-Tuning-Guide/articles/extruder_calibration.html',
       },
       {
+        name: 'My mini factory',
+        url: 'https://www.myminifactory.com/',
+      },
+      {
         name: 'Thingiverse',
         url: 'https://www.thingiverse.com/',
       },

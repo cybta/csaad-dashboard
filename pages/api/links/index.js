@@ -112,8 +112,16 @@ const links = [
         url: 'https://imagetostl.com/',
       },
       {
+        name: 'Free Videos',
+        url: 'https://www.pexels.com/video/',
+      },
+      {
         name: 'Movie search',
         url: 'https://yts.mx/',
+      },
+      {
+        name: 'Movie search 2',
+        url: 'https://www2.yts.nz/',
       },
       {
         name: 'Polygon angle Calculator',

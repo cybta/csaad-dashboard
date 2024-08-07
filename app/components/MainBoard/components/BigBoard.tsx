@@ -4,7 +4,7 @@ import RightBoards from './RightBoards';
 
 const BigBoard = () => {
   return (
-    <div className='flex flex-wrap grow gap-[50px]'>
+    <div className='flex flex-wrap grow gap-[50px] items-stretch'>
       <LeftBoard />
       <RightBoards />
     </div>

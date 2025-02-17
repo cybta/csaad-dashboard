@@ -30,6 +30,26 @@ export const csPost = async (url: string, data: any, cb?: any) => {
     });
 };
 
+export const csPut = async (url: string, data: any, cb?: any) => {
+  const axiosConfig = {
+    headers: {
+      'Content-Type': 'application/json',
+    },
+  };
+
+  axios
+    .put(url, data, axiosConfig)
+    .then((res) => {
+      console.log('RESPONSE RECEIVED: ', res);
+
+      if (cb) cb(res);
+    })
+    .catch((err) => {
+      if (cb) cb(err);
+      console.error('ERROR: ', err);
+    });
+};
+
 export const csDelete = async (url: string, data: any) => {
   const axiosConfig = {
     method: 'DELETE',

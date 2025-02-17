@@ -1,0 +1,658 @@
+{
+  "parts": [
+    {
+      "id": "cat01",
+      "categ_title": "Hand Tools",
+      "categ_title_ru": "Ручные инструменты",
+      "list": [
+        {
+          "name": "Hammer",
+          "name_ru": "Молоток"
+        },
+        {
+          "name": "Mallet",
+          "name_ru": "Киянка"
+        },
+        {
+          "name": "Hand Saw",
+          "name_ru": "Ручная пила"
+        },
+        {
+          "name": "Coping Saw",
+          "name_ru": "Лобзик ручной"
+        },
+        {
+          "name": "Backsaw",
+          "name_ru": "Пила с обушком"
+        },
+        {
+          "name": "Japanese Saw",
+          "name_ru": "Японская пила"
+        },
+        {
+          "name": "Plane",
+          "name_ru": "Рубанок"
+        },
+        {
+          "name": "Spokeshave",
+          "name_ru": "Говорушка"
+        },
+        {
+          "name": "Scraper",
+          "name_ru": "Скребок"
+        },
+        {
+          "name": "Brace",
+          "name_ru": "Коловорот"
+        },
+        {
+          "name": "Hand Drill",
+          "name_ru": "Ручная дрель"
+        },
+        {
+          "name": "Awl",
+          "name_ru": "Шило"
+        },
+        {
+          "name": "Marking Gauge",
+          "name_ru": "Разметочный рейсмус"
+        },
+        {
+          "name": "Try Square",
+          "name_ru": "Угольник столярный"
+        },
+        {
+          "name": "Bevel Gauge",
+          "name_ru": "Угольник регулируемый"
+        },
+        {
+          "name": "Compass",
+          "name_ru": "Циркуль"
+        },
+        {
+          "name": "Tape Measure",
+          "name_ru": "Рулетка"
+        },
+        {
+          "name": "Caliper",
+          "name_ru": "Штангенциркуль"
+        },
+        {
+          "name": "Rasp",
+          "name_ru": "Рашпиль"
+        },
+        {
+          "name": "File",
+          "name_ru": "Напильник"
+        },
+        {
+          "name": "Chisel",
+          "name_ru": "Стамеска"
+        },
+        {
+          "name": "Gouge",
+          "name_ru": "Полукруглая стамеска"
+        },
+        {
+          "name": "Drawknife",
+          "name_ru": "Двуручный нож"
+        },
+        {
+          "name": "Carving Knife",
+          "name_ru": "Нож для резьбы"
+        }
+      ]
+    },
+    {
+      "id": "cat02",
+      "categ_title": "Clamps",
+      "categ_title_ru": "Зажимы",
+      "list": [
+        {
+          "name": "C-Clamp",
+          "name_ru": "Струбцина С-образная"
+        },
+        {
+          "name": "F-Clamp",
+          "name_ru": "F-образная струбцина"
+        },
+        {
+          "name": "Bar Clamp",
+          "name_ru": "Линейная струбцина"
+        },
+        {
+          "name": "Pipe Clamp",
+          "name_ru": "Трубная струбцина"
+        },
+        {
+          "name": "Spring Clamp",
+          "name_ru": "Пружинная струбцина"
+        },
+        {
+          "name": "Corner Clamp",
+          "name_ru": "Угловая струбцина"
+        },
+        {
+          "name": "Toggle Clamp",
+          "name_ru": "Фиксаторная струбцина"
+        },
+        {
+          "name": "Bench Vise",
+          "name_ru": "Верстачные тиски"
+        }
+      ]
+    },
+    {
+      "id": "cat03",
+      "categ_title": "Screws & Fasteners",
+      "categ_title_ru": "Винты и крепеж",
+      "list": [
+        {
+          "name": "Wood Screws",
+          "name_ru": "Шурупы по дереву"
+        },
+        {
+          "name": "Lag Screws",
+          "name_ru": "Глухари"
+        },
+        {
+          "name": "Nails",
+          "name_ru": "Гвозди"
+        },
+        {
+          "name": "Dowels",
+          "name_ru": "Шканты"
+        },
+        {
+          "name": "Wood Glue",
+          "name_ru": "Столярный клей"
+        },
+        {
+          "name": "Biscuit Joiner Discs",
+          "name_ru": "Пластины для шпоночного соединения"
+        }
+      ]
+    },
+    {
+      "id": "cat04",
+      "categ_title": "Electric Power Tools",
+      "categ_title_ru": "Электроинструменты",
+      "list": [
+        {
+          "name": "Circular Saw",
+          "name_ru": "Циркулярная пила"
+        },
+        {
+          "name": "Jigsaw",
+          "name_ru": "Электролобзик"
+        },
+        {
+          "name": "Table Saw",
+          "name_ru": "Настольная пила"
+        },
+        {
+          "name": "Miter Saw",
+          "name_ru": "Торцовочная пила"
+        },
+        {
+          "name": "Band Saw",
+          "name_ru": "Ленточная пила"
+        },
+        {
+          "name": "Drill",
+          "name_ru": "Дрель"
+        },
+        {
+          "name": "Impact Driver",
+          "name_ru": "Ударный шуруповерт"
+        },
+        {
+          "name": "Router",
+          "name_ru": "Фрезер"
+        },
+        {
+          "name": "Planer",
+          "name_ru": "Электрорубанок"
+        },
+        {
+          "name": "Belt Sander",
+          "name_ru": "Ленточная шлифмашина"
+        },
+        {
+          "name": "Orbital Sander",
+          "name_ru": "Орбитальная шлифмашина"
+        },
+        {
+          "name": "Random Orbital Sander",
+          "name_ru": "Эксцентриковая шлифмашина"
+        },
+        {
+          "name": "Dremel Tool",
+          "name_ru": "Мини-дрель (Дремель)"
+        },
+        {
+          "name": "Joiner (Biscuit Joiner)",
+          "name_ru": "Шпоночный фрезер"
+        },
+        {
+          "name": "Lathe",
+          "name_ru": "Токарный станок"
+        },
+        {
+          "name": "Scroll Saw",
+          "name_ru": "Лобзиковый станок"
+        },
+        {
+          "name": "Drill Press",
+          "name_ru": "Сверлильный станок"
+        },
+        {
+          "name": "Dust Collector",
+          "name_ru": "Пылеудаляющий аппарат"
+        }
+      ]
+    },
+    {
+      "id": "cat05",
+      "categ_title": "Dowels",
+      "categ_title_ru": "Шканты",
+      "list": [
+        {
+          "name": "Wooden Dowels",
+          "name_ru": "Деревянные шканты"
+        },
+        {
+          "name": "Fluted Dowels",
+          "name_ru": "Рифлёные шканты"
+        },
+        {
+          "name": "Spiral Dowels",
+          "name_ru": "Спиральные шканты"
+        },
+        {
+          "name": "Grooved Dowels",
+          "name_ru": "Шканты с канавками"
+        },
+        {
+          "name": "Pre-glued Dowels",
+          "name_ru": "Шканты с клеевым покрытием"
+        },
+        {
+          "name": "Metal Dowels",
+          "name_ru": "Металлические шканты"
+        }
+      ]
+    },
+    {
+      "id": "cat06",
+      "categ_title": "Biscuits",
+      "categ_title_ru": "Пластины для шпоночного соединения",
+      "list": [
+        {
+          "name": "Compressed Beech Biscuits",
+          "name_ru": "Сжатые буковые пластины"
+        },
+        {
+          "name": "No. 0 Biscuit",
+          "name_ru": "Пластина №0"
+        },
+        {
+          "name": "No. 10 Biscuit",
+          "name_ru": "Пластина №10"
+        },
+        {
+          "name": "No. 20 Biscuit",
+          "name_ru": "Пластина №20"
+        },
+        {
+          "name": "Lamello Biscuits",
+          "name_ru": "Ламельные пластины"
+        },
+        {
+          "name": "Plastic Biscuits",
+          "name_ru": "Пластиковые шпоночные пластины"
+        }
+      ]
+    },
+    {
+      "id": "cat07",
+      "categ_title": "Wood Glue",
+      "categ_title_ru": "Столярный клей",
+      "list": [
+        {
+          "name": "PVA Glue (Polyvinyl Acetate)",
+          "name_ru": "ПВА-клей (поливинилацетатный)"
+        },
+        {
+          "name": "Titebond (PVA-based)",
+          "name_ru": "Клей Titebond (на основе ПВА)"
+        },
+        {
+          "name": "Hide Glue",
+          "name_ru": "Костный (мездровый) клей"
+        },
+        {
+          "name": "Epoxy Resin",
+          "name_ru": "Эпоксидная смола"
+        },
+        {
+          "name": "Polyurethane Glue (Gorilla Glue)",
+          "name_ru": "Полиуретановый клей (Gorilla Glue)"
+        },
+        {
+          "name": "Cyanoacrylate (CA) Glue",
+          "name_ru": "Цианоакрилатный клей (суперклей)"
+        },
+        {
+          "name": "Contact Cement",
+          "name_ru": "Контактный клей"
+        },
+        {
+          "name": "Resorcinol Glue",
+          "name_ru": "Резорциновый клей"
+        },
+        {
+          "name": "Melamine Glue",
+          "name_ru": "Меламиновый клей"
+        }
+      ]
+    },
+    {
+      "id": "cat08",
+      "categories": [
+        {
+          "categ_title": "Wood Fillers & Putty",
+          "categ_title_ru": "Шпатлёвки и наполнители",
+          "list": [
+            {
+              "name": "Wood Putty",
+              "name_ru": "Деревянная шпатлёвка"
+            },
+            {
+              "name": "Wood Filler",
+              "name_ru": "Наполнитель для древесины"
+            },
+            {
+              "name": "Epoxy Wood Filler",
+              "name_ru": "Эпоксидный наполнитель для дерева"
+            },
+            {
+              "name": "Latex Wood Filler",
+              "name_ru": "Латексная шпатлёвка по дереву"
+            },
+            {
+              "name": "Solvent-Based Wood Filler",
+              "name_ru": "Наполнитель на основе растворителя"
+            },
+            {
+              "name": "Sawdust & Glue Mix",
+              "name_ru": "Смесь опилок и клея"
+            }
+          ]
+        },
+        {
+          "categ_title": "Wood Stains",
+          "categ_title_ru": "Морилки",
+          "list": [
+            {
+              "name": "Oil-Based Stain",
+              "name_ru": "Масляная морилка"
+            },
+            {
+              "name": "Water-Based Stain",
+              "name_ru": "Водная морилка"
+            },
+            {
+              "name": "Gel Stain",
+              "name_ru": "Гелевая морилка"
+            },
+            {
+              "name": "Alcohol-Based Stain",
+              "name_ru": "Спиртовая морилка"
+            },
+            {
+              "name": "Dye Stain",
+              "name_ru": "Краситель для дерева"
+            }
+          ]
+        },
+        {
+          "categ_title": "Finishing Oils",
+          "categ_title_ru": "Отделочные масла",
+          "list": [
+            {
+              "name": "Linseed Oil",
+              "name_ru": "Льняное масло"
+            },
+            {
+              "name": "Tung Oil",
+              "name_ru": "Тунговое масло"
+            },
+            {
+              "name": "Danish Oil",
+              "name_ru": "Датское масло"
+            },
+            {
+              "name": "Teak Oil",
+              "name_ru": "Тиковое масло"
+            },
+            {
+              "name": "Walnut Oil",
+              "name_ru": "Ореховое масло"
+            },
+            {
+              "name": "Mineral Oil",
+              "name_ru": "Минеральное масло"
+            }
+          ]
+        },
+        {
+          "categ_title": "Wood Finishes",
+          "categ_title_ru": "Лакокрасочные покрытия",
+          "list": [
+            {
+              "name": "Polyurethane Finish",
+              "name_ru": "Полиуретановое покрытие"
+            },
+            {
+              "name": "Water-Based Polyurethane",
+              "name_ru": "Водоразбавляемый полиуретан"
+            },
+            {
+              "name": "Oil-Based Polyurethane",
+              "name_ru": "Масляный полиуретан"
+            },
+            {
+              "name": "Shellac",
+              "name_ru": "Шеллак"
+            },
+            {
+              "name": "Lacquer",
+              "name_ru": "Лак"
+            },
+            {
+              "name": "Varnish",
+              "name_ru": "Яхтный лак (или просто лак)"
+            },
+            {
+              "name": "Wax Finish",
+              "name_ru": "Восковое покрытие"
+            },
+            {
+              "name": "Hardwax Oil",
+              "name_ru": "Твёрдое восковое масло"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat09",
+      "categ_title": "Solid Wood",
+      "categ_title_ru": "Массив дерева",
+      "list": [
+        {
+          "name": "Oak",
+          "name_ru": "Дуб"
+        },
+        {
+          "name": "Maple",
+          "name_ru": "Клён"
+        },
+        {
+          "name": "Walnut",
+          "name_ru": "Орех"
+        },
+        {
+          "name": "Cherry",
+          "name_ru": "Вишня"
+        },
+        {
+          "name": "Birch",
+          "name_ru": "Берёза"
+        },
+        {
+          "name": "Ash",
+          "name_ru": "Ясень"
+        },
+        {
+          "name": "Pine",
+          "name_ru": "Сосна"
+        },
+        {
+          "name": "Spruce",
+          "name_ru": "Ель"
+        },
+        {
+          "name": "Beech",
+          "name_ru": "Бук"
+        },
+        {
+          "name": "Mahogany",
+          "name_ru": "Махагон"
+        },
+        {
+          "name": "Teak",
+          "name_ru": "Тик"
+        },
+        {
+          "name": "Cedar",
+          "name_ru": "Кедр"
+        }
+      ]
+    },
+    {
+      "id": "cat10",
+      "categ_title": "Engineered Wood",
+      "categ_title_ru": "Инженерная древесина",
+      "list": [
+        {
+          "name": "Plywood",
+          "name_ru": "Фанера"
+        },
+        {
+          "name": "Marine Plywood",
+          "name_ru": "Морская фанера"
+        },
+        {
+          "name": "MDF (Medium-Density Fiberboard)",
+          "name_ru": "МДФ (древесноволокнистая плита средней плотности)"
+        },
+        {
+          "name": "HDF (High-Density Fiberboard)",
+          "name_ru": "ХДФ (древесноволокнистая плита высокой плотности)"
+        },
+        {
+          "name": "Particle Board (Chipboard)",
+          "name_ru": "ДСП (древесно-стружечная плита)"
+        },
+        {
+          "name": "OSB (Oriented Strand Board)",
+          "name_ru": "ОСП (ориентированно-стружечная плита)"
+        },
+        {
+          "name": "Hardboard",
+          "name_ru": "ДВП (древесноволокнистая плита)"
+        },
+        {
+          "name": "Blockboard",
+          "name_ru": "Щитовая плита"
+        }
+      ]
+    },
+    {
+      "id": "cat11",
+      "categ_title": "Laminates & Surface Treatments",
+      "categ_title_ru": "Ламинированные и облицованные материалы",
+      "list": [
+        {
+          "name": "Melamine",
+          "name_ru": "ЛДСП (ламинированная ДСП)"
+        },
+        {
+          "name": "Veneered MDF",
+          "name_ru": "Шпонированный МДФ"
+        },
+        {
+          "name": "Veneered Plywood",
+          "name_ru": "Шпонированная фанера"
+        },
+        {
+          "name": "HPL (High-Pressure Laminate)",
+          "name_ru": "HPL пластик (высокого давления)"
+        },
+        {
+          "name": "Acrylic Sheet",
+          "name_ru": "Акриловый пластик"
+        },
+        {
+          "name": "PVC Foam Board",
+          "name_ru": "ПВХ-плита (вспененный ПВХ)"
+        }
+      ]
+    },
+    {
+      "id": "cat12",
+      "categ_title": "Mechanical Parts",
+      "categ_title_ru": "Механические детали",
+      "list": [
+        {
+          "name": "Rod",
+          "name_ru": "Стержень"
+        },
+        {
+          "name": "Threaded Rod",
+          "name_ru": "Резьбовой стержень"
+        },
+        {
+          "name": "Nut",
+          "name_ru": "Гайка"
+        },
+        {
+          "name": "Screw",
+          "name_ru": "Винт"
+        },
+        {
+          "name": "Screw for Wood",
+          "name_ru": "Шуруп"
+        },
+        {
+          "name": "Universal Joint",
+          "name_ru": "Карданное соединение"
+        },
+        {
+          "name": "Inserts",
+          "name_ru": "Вставки"
+        },
+        {
+          "name": "3D Print Inserts",
+          "name_ru": "Вставки для 3D печати"
+        },
+        {
+          "name": "Spacers",
+          "name_ru": "Проставки"
+        }
+      ]
+    }
+  ]
+}
